@@ -10,11 +10,12 @@
 DEDSEC_GCLI is a Linux-based tool designed to retrieve inbox and sent messages using an email address and app password generated from a Gmail account. This innovative solution provides users with the ability to access their emails discreetly, With its user-friendly interface, DEDSEC_GCLI simplifies the process of accessing and managing emails, offering convenience and privacy in online communications.
 
 ### HOW TO GET YOUR GMAIL KEY
-https://myaccount.google.com/u/0/apppasswords
+   1. goto this link: https://myaccount.google.com/u/0/apppasswords
 
 <p align="center">
 <img src="https://i.stack.imgur.com/Xe8Jt.gif", width="800", height="800">
 </p>
+   2. then copy your email and app_password to account.txt file
 
 
 ### INSTALLATION
