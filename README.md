@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media4.giphy.com/media/qfR7ATmV8yry8/200.webp?cid=ecf05e47a6g1ljzrl98cehr39d07unwqk8iy7tcl2yqkx3cu&ep=v1_gifs_related&rid=200.webp&ct=g", width="400", height="400">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVucmpvNWQ1MDh0MGF4MDhkNHE2a2tuZzNlOWM0OHpydm0wZGhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4966VVu321IfzpMAz/giphy.gif", width="400", height="400">
 </p>
 
 <h1 align="center"> DEDSEC_GCLI </h1>
